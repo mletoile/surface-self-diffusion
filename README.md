@@ -11,6 +11,9 @@ this repository store look-up tables which encode the anisotropic surface
 energy and diffusivity. The surface energy values are based on those given in
 [Crystalium](http://crystalium.materialsvirtuallab.org/), as calculated in [2].
 
+This example is designed to run on a laptop in a few hours. It therefore uses a
+small simulation volume and is somewhat low resolution.
+
 ## Attribution
 If you use the code or techniques presented here, please cite both this Github
 repository and [1].
