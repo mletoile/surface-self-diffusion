@@ -19,9 +19,9 @@ If you use the code or techniques presented here, please cite both this Github
 repository and [1].
 
 ## References
-[1] M. A. L'Etoile, C. V. Thompson, W. C. Carter, A level-set method for
-simulating solid-state dewetting in systems with strong crystalline anisotropy,
-**Finish citation when published** 
+
+[1] M.A. L’Etoile, C.V. Thompson, W.C. Carter, A level-set method for simulating solid-state dewetting in systems with strong crystalline anisotropy, Acta Materialia 282 (2025) 120368. https://doi.org/10.1016/j.actamat.2024.120368.
+
 
 [2] R. Tran, Z. Xu, B. Radhakrishnan, D. Winston, W. Sun, K.A. Persson, S.P. Ong, Surface energies of elemental crystals, Sci Data 3 (2016) 160080. https://doi.org/10.1038/sdata.2016.80.
 
